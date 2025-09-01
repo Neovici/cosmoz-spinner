@@ -81,7 +81,7 @@
     "@storybook/web-components": "7.6.17",
     "@storybook/web-components-vite": "^7.6.20",
     "@types/mocha": "^10.0.6",
-    "@types/node": "^20.12.13",
+    "@types/node": "^24.3.0",
     "esbuild": "^0.21.4",
     "http-server": "^14.1.1",
     "husky": "^9.0.11",
