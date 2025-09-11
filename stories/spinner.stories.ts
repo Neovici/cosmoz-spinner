@@ -7,7 +7,7 @@ export default {
 };
 
 export const Spinner = () => {
-	return html`<cz-spinner></cz-spinner>`;
+	return html`<cosmoz-spinner></cosmoz-spinner>`;
 };
 
 Spinner.parameters = {
