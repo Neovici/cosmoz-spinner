@@ -1,1 +1,1 @@
-export * from './cz-spinner';
+export * from './cosmoz-spinner';
