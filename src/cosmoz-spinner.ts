@@ -15,7 +15,7 @@ const styles = css`
 		vertical-align: middle;
 		border-radius: 50%;
 		width: var(--cosmoz-spinner-width, 22px);
-		height: var(--cosmoz-spinner-height);
+		height: var(--cosmoz-spinner-height, 22px);
 		border: 2px solid rgba(0, 0, 0, 0.1);
 		border-top: 2px solid #5f5a92;
 		animation: rotating 1.2s infinite cubic-bezier(0.785, 0.135, 0.15, 0.86);
