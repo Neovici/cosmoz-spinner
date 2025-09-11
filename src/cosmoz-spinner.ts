@@ -9,8 +9,8 @@ const styles = css`
 	}
 
 	:host {
-		--cosmoz-spinner-width: 22px;
-		--cosmoz-spinner-height: 22px;
+		--cosmoz-spinner-width: 20px;
+		--cosmoz-spinner-height: 20px;
 		display: inline-block;
 		vertical-align: middle;
 		border-radius: 50%;
