@@ -14,7 +14,7 @@ const styles = css`
 		display: inline-block;
 		vertical-align: middle;
 		border-radius: 50%;
-		width: var(--cosmoz-spinner-width);
+		width: var(--cosmoz-spinner-width, 22px);
 		height: var(--cosmoz-spinner-height);
 		border: 2px solid rgba(0, 0, 0, 0.1);
 		border-top: 2px solid #5f5a92;
