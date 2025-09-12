@@ -1,5 +1,4 @@
-import { component, css } from '@pionjs/pion';
-import { nothing } from 'lit-html';
+import { component, css, html } from '@pionjs/pion';
 
 const styles = css`
 	@keyframes rotating {
@@ -8,7 +7,7 @@ const styles = css`
 		}
 	}
 
-	:host {
+	.spinner {
 		--cosmoz-spinner-width: 20px;
 		--cosmoz-spinner-height: 20px;
 		display: inline-block;
@@ -25,7 +24,7 @@ const styles = css`
 	}
 `;
 
-const Spinner = () => nothing;
+const Spinner = () => html`<div class="spinner"></div>`;
 
 export const CosmozSpinner = component(Spinner, { styleSheets: [styles] });
 
