@@ -7,6 +7,10 @@ const styles = css`
 		}
 	}
 
+	:host {
+		flex: none !important;
+	}
+
 	.spinner {
 		--cosmoz-spinner-width: 20px;
 		--cosmoz-spinner-height: 20px;
@@ -20,7 +24,6 @@ const styles = css`
 		animation: rotating 1.2s infinite cubic-bezier(0.785, 0.135, 0.15, 0.86);
 		box-sizing: border-box;
 		margin: 0 4px;
-		flex: none !important;
 	}
 `;
 
