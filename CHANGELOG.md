@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Neovici/cosmoz-spinner/compare/v1.0.0...v1.0.1) (2025-09-17)
+
+
+### Bug Fixes
+
+* rename to cosmoz-spinner ([5471f29](https://github.com/Neovici/cosmoz-spinner/commit/5471f2937ce4d6ee2bae585bf5a9aa4cffc3ab9f))
+
 ## 1.0.0 (2025-09-01)
 
 
