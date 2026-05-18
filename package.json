@@ -86,6 +86,6 @@
 		"lint-staged": "^16.2.7",
 		"semantic-release": "^25.0.1",
 		"storybook": "^9.1.5",
-		"typescript": "^5.4.5"
+		"typescript": "^6.0.3"
 	}
 }
