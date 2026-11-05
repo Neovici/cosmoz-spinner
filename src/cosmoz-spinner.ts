@@ -33,7 +33,7 @@ const styles = css`
   :host([delay]) {
     animation:
       rotating 1.2s infinite cubic-bezier(0.785, 0.135, 0.15, 0.86),
-      delayed-in var(--cz-duration-fast, 150ms) var(--cz-delay-indicator, 400ms)
+      delayed-in var(--cz-duration-fast, 150ms) var(--cz-delay-indicator, 1s)
         both;
   }
 `;
